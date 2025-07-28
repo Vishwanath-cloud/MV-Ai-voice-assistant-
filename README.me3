@@ -1,0 +1,19 @@
+# MV-AI Voice Assistant 🎙️🤖
+
+MV-AI is a smart, lightweight voice assistant built using Python. It can listen to your voice, understand simple commands, speak back like Mikasa, and even perform basic tasks like telling time, opening websites, and searching Wikipedia. Designed to be mobile-friendly and run easily from Replit, Termux, or PC.
+
+---
+
+## 🌟 Features
+
+- 🎤 Voice recognition using Google Speech API
+- 🗣️ Text-to-speech response with female voice (Mikasa-style)
+- 🕒 Tells the current time and date
+- 🌐 Opens Google, YouTube via voice command
+- 📚 Answers “Who is…” questions using Wikipedia
+- ✅ Works on Android (via Termux) and PC
+- 🧠 Easy to customize and expand with new commands
+
+---
+
+## 📁 Project Structure
